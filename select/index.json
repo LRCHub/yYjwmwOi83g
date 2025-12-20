@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "タイムマシーンにのって",
+  "base_artist": "PUNPEE",
+  "createdAt": "2025-12-20T01:14:51.776587Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "タイムマシーンにのって",
+      "artist": "PUNPEE",
+      "has_synced": true,
+      "path": "select/01_タイムマシーンにのって_PUNPEE.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "タイムマシーンにのって/家族の風景",
+      "artist": "PUNPEE",
+      "has_synced": true,
+      "path": "select/02_タイムマシーンにのって_家族の風景_PUNPEE.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "タイムマシーンにのって/家族の風景",
+      "artist": "PUNPEE",
+      "has_synced": false,
+      "path": "select/pl_01_タイムマシーンにのって_家族の風景_PUNPEE.txt"
+    }
+  ]
+}
